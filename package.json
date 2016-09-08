@@ -1,0 +1,10 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "ISC",
+  "dependencies": {
+    "ecstatic": "^2.1.0",
+    "express": "^4.14.0"
+  }
+}
